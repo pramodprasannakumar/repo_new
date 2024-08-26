@@ -11,4 +11,3 @@ names = ["Alice", "Bob", "Charlie", "David", "Eve"]
 # Call the function to print all names with their indices
 print_all_indices(names)
 Print("hello world")
-#hellowolrd
